@@ -101,3 +101,7 @@ body {
     width : 100%;
     height: auto;
 }
+
+.img-bord {
+    border-radius: 1.5em;
+}
